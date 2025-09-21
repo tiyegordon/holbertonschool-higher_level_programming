@@ -1,10 +1,6 @@
 #!/usr/bin/python3
-"""Square Class
-
-This class don't do anything for the moment
-
-"""
-
+"""Module definin a simple Square Class."""
 
 class Square:
+    """Represents a square with no attributes or methods yet."""
     pass
